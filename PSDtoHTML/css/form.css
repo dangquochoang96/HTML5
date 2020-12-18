@@ -1,0 +1,87 @@
+/* ================================== BUTTON - CHANGE ================================= */
+
+#wrapper #header .top .currency .btn-link{
+    color: #fff;
+	height: 22px;
+	line-height: 22px;
+    background: url(../images/change-rbg.png) right top no-repeat;
+    padding-right: 7px;
+    display: inline-block;
+}
+
+	#wrapper #header .top .currency .btn-link span{
+		background: url(../images/change-lbg.png) left top no-repeat;
+		padding-left: 7px;
+		display: block;
+	}
+	
+	#wrapper #header .top .currency .btn-link:hover{
+		color: #000;
+	}
+
+/* ================================== BUTTON - LOGIN ================================= */
+
+#box-login #login-form .row .btn-link{
+    color: #fff;
+	height: 22px;
+	line-height: 22px;
+    background: url(../images/change-rbg.png) right top no-repeat;
+    padding-right: 7px;
+    display: inline-block;
+	width: 50px;
+	text-align: center;
+}
+
+	#box-login #login-form .row .btn-link span{
+		background: url(../images/change-lbg.png) left top no-repeat;
+		padding-left: 7px;
+		display: block;
+	}
+	
+	#box-login #login-form .row .btn-link:hover{
+		color: #000;
+	}
+	
+/* ================================== INPUT - BOX LOGIN, INPUT - SEARCH ================================= */
+
+#box-login #login-form .row span.button, #box-search #search-form .row span.button {
+	display: block;
+	background: url(../images/bg-text-l.gif) left top no-repeat;
+	height: 27px;
+	line-height: 27px;
+}
+
+	#box-login #login-form .row span.button span, #box-search #search-form .row span.button span{
+		display: inline-block;
+		background: url(../images/bg-text-r.gif) right top no-repeat;
+		height: 27px;
+		line-height: 27px;
+	}
+	
+	#box-login #login-form .row span.button span input, #box-search #search-form .row span.button span input{
+		border: none;
+		background: url(../images/bg-text-c.gif) left top repeat-x;
+		height: 27px;
+		line-height: 27px;
+		margin: 0px 6px;
+		outline: none;
+		*margin-top: -1px;
+		font-size: 10px;
+		color: #a1b4da;
+		width: 166px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
